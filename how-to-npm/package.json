@@ -1,7 +1,8 @@
 {
   "name": "how-to-npm",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a test npm package created to play with how-to-npm workshop at http://nodeschool.io/",
+  "repository": "https://github.com/vso-tc/nodeschool.git",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
